@@ -273,7 +273,3 @@ This warning is visible only on development and totally harmless. This occurs to
 ## License
 
 This MERN Project is released under the [MIT License](http://www.opensource.org/licenses/MIT).
-
-## Motive
-
-Part of Udacity Nanodegree Devops Track
